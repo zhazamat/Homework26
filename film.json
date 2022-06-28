@@ -1,0 +1,22 @@
+[
+  {
+    "key": "K1",
+    "name": "AAA,BBB,CCC"
+  },
+  {
+    "key": "K2",
+    "name": "AAA,BBB"
+  },
+  {
+    "key": "K3",
+    "name": "AAA,DDD"
+  },
+  {
+    "key": "K4",
+    "name": "AAA,2,01/01/2015"
+  },
+  {
+    "key": "K5",
+    "name": "3,ZZZ,5623"
+  }
+]
